@@ -15,11 +15,13 @@ x = x-spd;
 sprite_index = Corrrer;
 image_xscale = -1;
 }
+
 else if (keyboard_check(vk_right)){
 x = x+spd;
 sprite_index = Corrrer;
 image_xscale = 1;
 }
+
 
 else{
 sprite_index = Normal;
