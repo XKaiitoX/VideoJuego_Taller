@@ -19,7 +19,6 @@
   "ResourceOrderSettings": [
     {"name":"Sprite4","order":2,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"Bocina","order":5,"path":"objects/Bocina/Bocina.yy",},
-    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Sprite8","order":5,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"Piedra","order":1,"path":"objects/Piedra/Piedra.yy",},
     {"name":"white","order":2,"path":"objects/white/white.yy",},
